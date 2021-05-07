@@ -1,0 +1,15 @@
+
+header {
+  width:100%;
+  padding: 60px;
+  text-align: center;
+  background: #0c3f58;
+  color:#d8d8d8;
+  font-family:Georgia;
+}
+footer{
+  width:100%;
+  padding:60px;
+  color:white;
+  background:#072534;
+}
